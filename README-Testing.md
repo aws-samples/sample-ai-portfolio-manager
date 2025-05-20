@@ -98,8 +98,6 @@ aws lambda invoke --function-name stock-recommendation --payload '{}' response.j
 # Test stock-alert function
 aws lambda invoke --function-name stock-alert --payload '{}' response.json
 
-# Test stock-profile-evaluation function
-aws lambda invoke --function-name stock-profile-evaluation --payload '{}' response.json
 ```
 
 ### 7. Check Email Alerts
