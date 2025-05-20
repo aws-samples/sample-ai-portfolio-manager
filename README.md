@@ -21,7 +21,7 @@ The easiest way to deploy this project is using the provided deployment script.
 
 #### Prerequisites
 - AWS CLI installed and configured with appropriate permissions
-- Python 3.8+ installed
+- Python 3.9 installed
 - pip package manager
 
 #### Deployment Steps
