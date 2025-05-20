@@ -1,0 +1,5 @@
+yfinance==0.2.18
+boto3
+numpy
+pandas
+python-dateutil
